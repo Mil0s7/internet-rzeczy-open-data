@@ -1,0 +1,3 @@
+station_id,station_name,lat,lon,racks,bikes,timestamp
+1002,Nadodrze,51.121,17.036,15,10,1757518741
+1002,Nadodrze,51.121,17.036,15,13,1757518801

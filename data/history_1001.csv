@@ -1,0 +1,3 @@
+station_id,station_name,lat,lon,racks,bikes,timestamp
+1001,Rynek,51.109,17.032,20,4,1757518741
+1001,Rynek,51.109,17.032,20,13,1757518801
